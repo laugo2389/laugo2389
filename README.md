@@ -12,14 +12,14 @@ Background in healthcare and operations, bringing analytical thinking and proble
 
 ## 📊 Featured Projects
 
-### Customer Retention Analysis  
+### Customer Retention Analysis — MercadoLibre
+https://github.com/laugo2389/Data-analytics-portafolio/tree/main/mercadolibre-retention-cohorts
+
+### Urban Traffic Performance
+https://github.com/laugo2389/Data-analytics-portafolio/tree/main/urban-traffic-performance
+
+### Sales & Marketing Performance Dashboard
 https://github.com/laugo2389/Data-analytics-portafolio
-
-### Urban Traffic Performance  
-(agregaremos el link exacto después)
-
-### Sales & Marketing Performance Dashboard  
-(agregaremos el link exacto después)
 
 ## 🎯 Professional Goal
 To start my career as a Junior Data Analyst, contributing to business growth through actionable insights and data-driven decision making.

@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Laura Gomez
 
-<!--
-**laugo2389/laugo2389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst with strong foundation in SQL, Python, and business analytics.  
+Background in healthcare and operations, bringing analytical thinking and problem-solving skills to real-world business challenges.
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
+- SQL (CTEs, cohort analysis, KPI calculations)
+- Python (Pandas, NumPy, EDA)
+- Data Visualization: Tableau
+- Spreadsheets: Google Sheets, Excel
+- Business Metrics: ARPU, LTV, CAC, Retention, Churn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Featured Projects
+
+### Customer Retention Analysis  
+https://github.com/laugo2389/Data-analytics-portafolio
+
+### Urban Traffic Performance  
+(agregaremos el link exacto después)
+
+### Sales & Marketing Performance Dashboard  
+(agregaremos el link exacto después)
+
+## 🎯 Professional Goal
+To start my career as a Junior Data Analyst, contributing to business growth through actionable insights and data-driven decision making.
